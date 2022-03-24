@@ -1,3 +1,3 @@
-Quotes that go hard:
+**Quotes that go hard:**
 *Hello, I like money*
 **- Mr. Krabs**
