@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![John Xina](https://s.staticneo.com/mg/2021/07/242c85d8abf14e78bc5e7c52d900704cXbBmO.jpg)
